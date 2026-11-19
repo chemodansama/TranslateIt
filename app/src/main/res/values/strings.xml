@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Translate it!</string>
+    <string name="translate_label">Translate it!</string>
+    <string name="translating">Translating…</string>
+    <string name="downloading_model">Downloading language model…</string>
+    <string name="detecting_language">Detecting language…</string>
+    <string name="unknown_language">Couldn\'t detect the language of this text.</string>
+    <string name="unsupported_language">Language \"%1$s\" is not supported.</string>
+    <string name="translation_failed">Translation failed: %1$s</string>
+    <string name="no_text">Nothing to translate.</string>
+    <string name="copy">Copy</string>
+    <string name="close">Close</string>
+    <string name="replace">Replace</string>
+    <string name="retry">Retry</string>
+    <string name="swap_languages">Swap languages</string>
+    <string name="source_language">Translate from</string>
+    <string name="target_language">Translate to</string>
+    <string name="auto_detect">Auto-detect</string>
+    <string name="search_language">Search language…</string>
+    <string name="copied_to_clipboard">Copied to clipboard</string>
+    <string name="speak">Listen</string>
+    <string name="input_placeholder">Type or paste text to translate…</string>
+    <string name="clear">Clear text</string>
+    <string name="main_hint">Select text in any app and choose \"Translate it!\". The translation appears in a popup on top of that app.</string>
+</resources>
