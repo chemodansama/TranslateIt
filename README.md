@@ -10,6 +10,22 @@
 
 ---
 
+## 📱 Screenshots
+
+<p align="center">
+  <img src="docs/screenshots/main_screen.png" width="30%" alt="Main Translation Screen" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="docs/screenshots/popup_overlay.png" width="30%" alt="Floating Popup Overlay" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="docs/screenshots/language_picker.png" width="30%" alt="Searchable Language Picker" />
+</p>
+
+<p align="center">
+  <b>Main App</b> &bull; <b>Context Menu Popup Overlay</b> &bull; <b>Searchable Language Picker</b>
+</p>
+
+---
+
 ## ✨ Features
 
 * **⚡ Instant System Integration**:
